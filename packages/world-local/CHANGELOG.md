@@ -1,5 +1,11 @@
 # @workflow/world-local
 
+## 4.0.1-beta.2
+
+### Patch Changes
+
+- 66225bf: World-local: filter by workflowName/status if passed
+
 ## 4.0.1-beta.1
 
 ### Patch Changes

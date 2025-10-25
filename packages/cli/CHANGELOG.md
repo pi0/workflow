@@ -1,5 +1,19 @@
 # @workflow/cli
 
+## 4.0.1-beta.3
+
+### Patch Changes
+
+- Updated dependencies [66225bf]
+- Updated dependencies [731adff]
+- Updated dependencies [57419e5]
+- Updated dependencies [22917ab]
+- Updated dependencies [66225bf]
+- Updated dependencies [9ba86ce]
+  - @workflow/world-local@4.0.1-beta.2
+  - @workflow/web@4.0.1-beta.3
+  - @workflow/core@4.0.1-beta.3
+
 ## 4.0.1-beta.2
 
 ### Patch Changes
